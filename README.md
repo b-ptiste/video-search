@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Project presentation
 
 ## Current Topics in Multimedia Systems: Video Search with Deep Learning (623.915, 22S) ##By Klaus Schoffmann
