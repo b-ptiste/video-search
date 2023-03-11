@@ -4,9 +4,9 @@
 
 BY : 
 
-**CALLARD Baptiste** \n
-**Diener Moritz** \n
-**Harivel Alexia** \n
+* **CALLARD Baptiste** 
+* **Diener Moritz** 
+* **Harivel Alexia** 
 
 
 ### Introduction
