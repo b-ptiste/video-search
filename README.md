@@ -2,7 +2,12 @@
 
 ## Current Topics in Multimedia Systems: Video Search with Deep Learning (623.915, 22S) ##By Klaus Schoffmann
 
-**CALLARD Baptiste Diener Moritz Harivel Alexia**
+BY : 
+
+**CALLARD Baptiste** 
+**Diener Moritz** 
+**Harivel Alexia**
+
 
 ### Introduction
 
