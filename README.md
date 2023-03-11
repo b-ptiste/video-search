@@ -18,6 +18,8 @@ dataset. It is a dataset that contains only 10% of the V3C1. We finally
 seek to propose a visualization by the means of an application allowing
 to allow anyone to easily evaluate our results.
 
+![image](images/image.png)
+
 ### Final objective and motivation
 
 We are going to propose an application that allows to find all the
